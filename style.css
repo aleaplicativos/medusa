@@ -1,0 +1,14 @@
+#canvas{
+  position:absolute;
+  
+}
+#main{
+  position:absolute;
+  width:430px;
+  left:670px;
+  font-size:13px;
+  line-height:150%;  
+}
+span{
+  font-size:12px;
+}
